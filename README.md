@@ -1,6 +1,6 @@
 
-# Movies React Application
+# Movies Search React Application
 
-## Movies application built on React JS using api from TMDM 
+## Movie Search application built on React JS using api from TMDM 
 
 [View Live](https://meeflix-react.netlify.app/)
